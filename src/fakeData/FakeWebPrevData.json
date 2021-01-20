@@ -1,0 +1,41 @@
+[
+  {
+    "id": "10005",
+    "nom": "Arlanxeo",
+    "adressePostale": "Z.I du Ried - La Wandtzenau",
+    "coordonnees": { "x": "48.653376", "y": "7.799555" },
+    "valide": "true",
+    "dateValide": "10/10/2013",
+    "activite": {
+      "nature": "I.C.P.E",
+      "type": "Chimie",
+      "classement": "Déclaration"
+    }
+  },
+  {
+    "id": "10006",
+    "nom": "Super U",
+    "adressePostale": "1A Rue Hans Arp, 67202 Wolfisheim",
+    "coordonnees": { "x": "48.590967", "y": "7.670975" },
+    "valide": "false",
+    "dateValide": "",
+    "activite": {
+      "nature": "E.R.P",
+      "type": "M- Vente",
+      "classement": "2eme cat.(700<n<1500)"
+    }
+  },
+  {
+    "id": "10007",
+    "nom": "Steinmetz",
+    "adressePostale": "3 Rue du Commerce, 67202 Wolfisheim",
+    "coordonnees": { "x": "48.592049", "y": "7.668544" },
+    "valide": "true",
+    "dateValide": "12/01/2014",
+    "activite": {
+      "nature": "E.R.P",
+      "type": "M- Vente",
+      "classement": "3eme cat.(300<n<700)"
+    }
+  }
+]
